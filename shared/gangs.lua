@@ -8,8 +8,8 @@ QBShared.Gangs = {
             },
         },
 	},
-	['lostmc'] = {
-		label = 'The Lost MC',
+	['isobloods'] = {
+		label = 'Iso Bloods',
 		grades = {
             ['0'] = {
                 name = 'Recruit'
@@ -26,8 +26,8 @@ QBShared.Gangs = {
             },
         },
 	},
-	['ballas'] = {
-		label = 'Ballas',
+	['isocrips'] = {
+		label = 'Iso Crips',
 		grades = {
             ['0'] = {
                 name = 'Recruit'
@@ -44,8 +44,8 @@ QBShared.Gangs = {
             },
         },
 	},
-	['vagos'] = {
-		label = 'Vagos',
+	['latinkings'] = {
+		label = 'Latin Kings',
 		grades = {
             ['0'] = {
                 name = 'Recruit'
