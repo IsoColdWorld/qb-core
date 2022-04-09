@@ -406,6 +406,15 @@ QBShared.Vehicles = {
 		['hash'] = `300srt8`,
 		['shop'] = 'luxury',
 	},
+	['demonhawk'] = {
+		['name'] = 'Mac Trackhawk',
+		['brand'] = 'Jeep',
+		['model'] = 'demonhawk',
+		['price'] = 99999999,
+		['category'] = 'vip',
+		['hash'] = `demonhawk`,
+		['shop'] = 'luxury',
+	},
 	['hellcatw'] = {
 		['name'] = 'Mack hellcat',
 		['brand'] = 'Dodge',
