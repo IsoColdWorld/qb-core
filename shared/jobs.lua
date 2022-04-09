@@ -28,7 +28,7 @@ QBShared.Jobs = {
             ['0'] = {
                 name = 'Staff',
 				isboss = true,
-                payment = 10000
+                payment = 1000
             },
         },
 	},
@@ -39,7 +39,7 @@ QBShared.Jobs = {
             ['0'] = {
                 name = 'luxury',
 				isboss = true,
-                payment = 5000
+                payment = 1000
             },
         },
 	},
