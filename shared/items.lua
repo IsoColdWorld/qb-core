@@ -301,6 +301,18 @@ QBShared.Items = {
 	['cocaine_leaf'] 				 = {['name'] = 'cocaine_leaf', 					['label'] = 'Coke Leaf', 				['weight'] = 100, 		['type'] = 'item', 		['image'] = 'cocaineleaf.png', 			['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,    ['combinable'] = nil,   ['description'] = "Let's make some Coke"},
 	["empty_weed_bag"] 				 = {["name"] = "empty_weed_bag", 				["label"] = "Empty Weed Bag", 			["weight"] = 100, 		["type"] = "item", 		["image"] = "weed_baggy_empty.png", 	["unique"] = false, 	["useable"] = true, 	["shouldClose"] = true,    ["combinable"] = nil,   ["description"] = "To get happy real fast."},
 	["lean"] 				 		 = {["name"] = "lean", 			  	  			["label"] = "Lean", 					["weight"] = 200, 		["type"] = "item", 		["image"] = "lean.png", 				["unique"] = false, 	["useable"] = true, 	["shouldClose"] = true,	   ["combinable"] = nil,   ["description"] = "Wockesha"},
+	
+	--QBCORE DRUGLABS ITEMS
+	["methkey"]     = {["name"] = "methkey",      ["label"] = "methkey",      ["weight"] = 0,     ["type"] = "item",      ["image"] = "methkey.png",    ["unique"] = true,      ["useable"] = true,     ["shouldClose"] = false,      ["combinable"] = nil,     ["description"] = "Meth Lab Access key!"},
+	["weedkey"]     = {["name"] = "weedkey",      ["label"] = "weedkey",      ["weight"] = 0,     ["type"] = "item",      ["image"] = "weedkey.png",    ["unique"] = true,      ["useable"] = true,     ["shouldClose"] = false,      ["combinable"] = nil,     ["description"] = "Weed Lab Access key!"},
+	["mwkey"]       = {["name"] = "mwkey",        ["label"] = "mwkey",        ["weight"] = 0,     ["type"] = "item",      ["image"] = "mwkey.png",      ["unique"] = true,      ["useable"] = true,     ["shouldClose"] = false,      ["combinable"] = nil,     ["description"] = "Laundrette Access key!"},
+	["cokekey"]     = {["name"] = "cokekey",      ["label"] = "cokekey",      ["weight"] = 0,     ["type"] = "item",      ["image"] = "cokekey.png",    ["unique"] = true,      ["useable"] = true,     ["shouldClose"] = false,      ["combinable"] = nil,     ["description"] = "Coke Lab Access key!"},
+	-- drugs
+	['coke_brick']   = {['name'] = 'coke_brick',   ['label'] = 'Coke Brick',     ['weight'] = 2000,      ['type'] = 'item',      ['image'] = 'coke_brick.png',     ['unique'] = true,      ['useable'] = false,      ['shouldClose'] = true,     ['combinable'] = nil,     ['description'] = 'Heavy package of cocaine, mostly used for deals and takes a lot of space'},
+	['weed_brick']   = {['name'] = 'weed_brick',   ['label'] = 'Weed Brick',     ['weight'] = 1000,      ['type'] = 'item',      ['image'] = 'weed_brick.png',     ['unique'] = false,     ['useable'] = false,      ['shouldClose'] = true,     ['combinable'] = nil,     ['description'] = '1KG Weed Brick to sell to large customers.'},
+	['meth_package'] = {['name'] = 'meth_package', ['label'] = 'Meth Package',   ['weight'] = 1000,      ['type'] = 'item',      ['image'] = 'meth_package.png',   ['unique'] = false,     ['useable'] = false,      ['shouldClose'] = true,     ['combinable'] = nil,     ['description'] = 'Large package of Meth'},
+	
+	
 	-- Seed And Weed
 	['weed_white-widow'] 			 = {['name'] = 'weed_white-widow', 			 	['label'] = 'White Widow 2g', 			['weight'] = 200, 		['type'] = 'item', 		['image'] = 'weed_baggy.png', 			['unique'] = false, 	['useable'] = true, 	['shouldClose'] = false,   ['combinable'] = nil,   ['description'] = 'A weed bag with 2g White Widow'},
 	['weed_skunk'] 				  	 = {['name'] = 'weed_skunk', 			 		['label'] = 'Skunk 2g', 				['weight'] = 200, 		['type'] = 'item', 		['image'] = 'weed_baggy.png', 			['unique'] = false, 	['useable'] = true, 	['shouldClose'] = false,   ['combinable'] = nil,   ['description'] = 'A weed bag with 2g Skunk'},
