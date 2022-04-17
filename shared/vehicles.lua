@@ -496,6 +496,15 @@ QBShared.Vehicles = {
 		['hash'] = `scat`,
 		['shop'] = 'luxury',
 	},
+	['m3g80wb21custom'] = {
+		['name'] = '2022 M3 G80',
+		['brand'] = 'BMW',
+		['model'] = 'm3g80wb21custom',
+		['price'] = 75000,
+		['category'] = 'bmw',
+		['hash'] = `m3g80wb21custom`,
+		['shop'] = 'pdm',
+	},
 	['zx10r'] = {
 		['name'] = 'Boe Bike',
 		['brand'] = 'Suzuki',
