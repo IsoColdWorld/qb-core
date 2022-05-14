@@ -21,6 +21,115 @@ QBShared.Jobs = {
             },
         },
 	},
+    ["dunkin"] = {
+        label = "Dunkin Donuts",
+        defaultDuty = true,
+        grades = {
+            ['0'] = {
+                name = "Trainee",
+                payment = 500
+            },
+            ['1'] = {
+                name = "Employee",
+                payment = 650
+            },
+            ['2'] = {
+                name = "Sales Manager",
+                payment = 850
+            },
+            ['3'] = {
+                name = "Manager",
+                payment = 1000
+            },
+            ['4'] = {
+                name = "CEO",
+                isboss = true,
+                payment = 3500
+            },
+        },
+    },
+    ["mcdonalds"] = {
+        label = "McDonalds Employee",
+        defaultDuty = true,
+        offDutyPay = false,
+        grades = {
+            ['0'] = {
+                name = "Trainee",
+                payment = 250
+            },
+            ['1'] = {
+                name = "Employee",
+                payment = 500
+            },
+            ['2'] = {
+                name = "Burger Flipper",
+                payment = 750
+            },
+            ['3'] = {
+                name = "Manager",
+                payment = 950
+            },
+            ['4'] = {
+                name = "CEO",
+                isboss = true,
+                payment = 1250
+            },
+        },
+    },
+    ["tacoshop"] = {
+        label = "Taco Shop",
+        defaultDuty = true,
+        grades = {
+            ['0'] = {
+                name = "Employee",
+                payment = 50
+            },
+            ['1'] = {
+                name = "Sales",
+                payment = 75
+            },
+            ['2'] = {
+                name = "Sales Manager",
+                payment = 100
+            },
+            ['3'] = {
+                name = "Manager",
+                payment = 150
+            },
+            ['4'] = {
+                name = "CEO",
+                isboss = true,
+                payment = 250
+            },
+        },
+    },
+    ["wingstop"] = {
+        label = "WingStop Employee",
+        defaultDuty = true,
+        grades = {
+            ['0'] = {
+                name = "Rookie",
+                payment = 50
+            },
+            ['1'] = {
+                name = "Employee",
+                payment = 75
+            },
+            ['2'] = {
+                name = "Wing Fryer",
+                payment = 100
+            },
+            ['3'] = {
+                name = "Manager",
+                payment = 125
+            },
+            ['4'] = {
+                name = "CEO",
+                isboss = true,
+                payment = 150
+            },
+        },
+    },
 	['isocold'] = {
 		label = 'Iso Cold Staff',
 		defaultDuty = true,
