@@ -1720,15 +1720,15 @@ QBShared.Vehicles = {
 		['hash'] = `lykan`,
 		['shop'] = 'pdm',
 	},
-	--[['21scatdurango'] = { 					------Carset 1
-		['name'] = '2021 392 Durango',
+	['RedeyeSuperstockSCV2'] = { 					------Carset 1
+		['name'] = '2022 Redeye Superstock Charger',
 		['brand'] = 'Dodge',
-		['model'] = '21scatdurango',
+		['model'] = 'RedeyeSuperstockSCV2',
 		['price'] = 99999999,
 		['category'] = 'vip',
-		['hash'] = `21scatdurango`,
+		['hash'] = `RedeyeSuperstockSCV2`,
 		['shop'] = 'luxury',
-	},]]
+	},
 	['22demon'] = {
 		['name'] = '2022 Demon',
 		['brand'] = 'Dodge',
