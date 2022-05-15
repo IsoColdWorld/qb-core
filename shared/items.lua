@@ -723,4 +723,5 @@ QBShared.Items = {
 
 	['atmobject'] 				 	 = {['name'] = 'atmobject', 			  		['label'] = 'ATM', 						['weight'] = 200, 		['type'] = 'item', 		['image'] = 'expert_atmobj.png', 		['unique'] = true, 		['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'ATM'},
 	["head_bag"] 					 = {["name"] = "head_bag", 			 	["label"] = "Head Bag", 						["weight"] = 5, 		["type"] = "item", 		["image"] = "head_bag.png", 			["unique"] = true, 		["useable"] = true, 	["shouldClose"] = false,   ["combinable"] = nil,   ["description"] = "Put mask on hostage."},
+	['gym_membership'] 				 = {['name'] = 'gym_membership', 		     ['label'] = 'Gym membership', 				['weight'] = 0, 		['type'] = 'item', 		['image'] = 'gym_membership.png', 				['unique'] = true, 		['useable'] = true, 	['shouldClose'] = false,   ['combinable'] = nil,   ['description'] = 'Gym Notebook'},
 }
