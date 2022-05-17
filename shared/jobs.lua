@@ -21,6 +21,18 @@ QBShared.Jobs = {
             },
         },
 	},
+    ['gunplug'] = {
+		label = 'Gun Plug',
+		grades = {
+            ['0'] = {
+                name = 'Gunrunner'
+            },
+            ['1'] = {
+                name = 'The Plug',
+                isboss = true
+            },
+        },
+	},
     ["dunkin"] = {
         label = "Dunkin Donuts",
         defaultDuty = true,
