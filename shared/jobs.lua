@@ -21,18 +21,33 @@ QBShared.Jobs = {
             },
         },
 	},
-    ['gunplug'] = {
-		label = 'Gun Plug',
-		grades = {
+    ["ammunation"] = {
+        label = "Ammunation Employee",
+        defaultDuty = true,
+        grades = {
             ['0'] = {
-                name = 'Gunrunner'
+                name = "Recruit",
+                payment = 50
             },
             ['1'] = {
-                name = 'The Plug',
-                isboss = true
+                name = "Novice",
+                payment = 75
+            },
+            ['2'] = {
+                name = "Experienced",
+                payment = 100
+            },
+            ['3'] = {
+                name = "Advanced",
+                payment = 125
+            },
+            ['4'] = {
+                name = "Manager",
+                isboss = true,
+                payment = 150
             },
         },
-	},
+    },
     ["dunkin"] = {
         label = "Dunkin Donuts",
         defaultDuty = true,
