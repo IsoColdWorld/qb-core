@@ -17,7 +17,7 @@ QBShared.Vehicles = {
 		['price'] = 99999999,
 		['category'] = 'vip',
 		['hash'] = `mb6`,
-		['shop'] = 'luxury',
+		['shop'] = 'iso',
 	},
 	['brzbn'] = {
 		['name'] = 'Subaru Brz',
@@ -404,7 +404,7 @@ QBShared.Vehicles = {
 		['price'] = 99999999,
 		['category'] = 'vip',
 		['hash'] = `300srt8`,
-		['shop'] = 'luxury',
+		['shop'] = 'iso',
 	},
 	['demonhawk'] = {
 		['name'] = 'Mac Trackhawk',
@@ -413,7 +413,7 @@ QBShared.Vehicles = {
 		['price'] = 99999999,
 		['category'] = 'vip',
 		['hash'] = `demonhawk`,
-		['shop'] = 'luxury',
+		['shop'] = 'iso',
 	},
 	['chargerscat'] = {
 		['name'] = 'Mac Scatpack',
@@ -422,7 +422,7 @@ QBShared.Vehicles = {
 		['price'] = 99999999,
 		['category'] = 'vip',
 		['hash'] = `chargerscat`,
-		['shop'] = 'luxury',
+		['shop'] = 'iso',
 	},
 	['hellcatw'] = {
 		['name'] = 'Mack hellcat',
@@ -431,7 +431,7 @@ QBShared.Vehicles = {
 		['price'] = 99999999,
 		['category'] = 'vip',
 		['hash'] = `hellcatw`,
-		['shop'] = 'luxury',
+		['shop'] = 'iso',
 	},
 	['infinitig35'] = {
 		['name'] = 'InfinitiG35',
@@ -449,7 +449,7 @@ QBShared.Vehicles = {
 		['price'] = 99999999,
 		['category'] = 'vip',
 		['hash'] = `tazg35`,
-		['shop'] = 'luxury',
+		['shop'] = 'iso',
 	},
 	['skylineSC'] = {
 		['name'] = 'SkylineSC',
@@ -458,7 +458,7 @@ QBShared.Vehicles = {
 		['price'] = 99999999,
 		['category'] = 'vip',
 		['hash'] = `skylineSC`,
-		['shop'] = 'luxury',
+		['shop'] = 'iso',
 	},
 	['73drop'] = {
 		['name'] = 'BOE 73Drop',
@@ -467,7 +467,7 @@ QBShared.Vehicles = {
 		['price'] = 99999999,
 		['category'] = 'vip',
 		['hash'] = `73drop`,
-		['shop'] = 'luxury',
+		['shop'] = 'iso',
 	},
 	['21ltz'] = {
 		['name'] = 'Camaro ZL1',
@@ -476,7 +476,7 @@ QBShared.Vehicles = {
 		['price'] = 99999999,
 		['category'] = 'vip',
 		['hash'] = `21ltz`,
-		['shop'] = 'luxury',
+		['shop'] = 'iso',
 	},
 	['srtday20'] = {
 		['name'] = 'Daytona Charger',
@@ -485,7 +485,7 @@ QBShared.Vehicles = {
 		['price'] = 99999999,
 		['category'] = 'vip',
 		['hash'] = `srtday20`,
-		['shop'] = 'luxury',
+		['shop'] = 'iso',
 	},
 	['scat'] = {
 		['name'] = 'Von Scat',
@@ -494,7 +494,7 @@ QBShared.Vehicles = {
 		['price'] = 99999999,
 		['category'] = 'vip',
 		['hash'] = `scat`,
-		['shop'] = 'luxury',
+		['shop'] = 'iso',
 	},
 	['m3g80wb21custom'] = {
 		['name'] = '2022 M3 G80',
@@ -512,7 +512,7 @@ QBShared.Vehicles = {
 		['price'] = 99999999,
 		['category'] = 'vip',
 		['hash'] = `zx10r`,
-		['shop'] = 'luxury',
+		['shop'] = 'iso',
 	},
 	['73hard'] = {
 		['name'] = 'Monsta Car',
@@ -521,7 +521,7 @@ QBShared.Vehicles = {
 		['price'] = 99999999,
 		['category'] = 'vip',
 		['hash'] = `73hard`,
-		['shop'] = 'luxury',
+		['shop'] = 'iso',
 	},
 	['freebochrghoulre'] = {
 		['name'] = 'SRT Ghoul',
@@ -530,7 +530,7 @@ QBShared.Vehicles = {
 		['price'] = 99999999,
 		['category'] = 'vip',
 		['hash'] = `freebochrghoulre`,
-		['shop'] = 'luxury',
+		['shop'] = 'iso',
 	},
 	['a80'] = {
 		['name'] = 'Taz A80',
@@ -539,7 +539,7 @@ QBShared.Vehicles = {
 		['price'] = 99999999,
 		['category'] = 'vip',
 		['hash'] = `a80`,
-		['shop'] = 'luxury',
+		['shop'] = 'iso',
 	},
 	['gcmm5cs'] = {
 		['name'] = 'M5 CS',
@@ -548,7 +548,7 @@ QBShared.Vehicles = {
 		['price'] = 99999999,
 		['category'] = 'vip',
 		['hash'] = `gcmm5cs`,
-		['shop'] = 'luxury',
+		['shop'] = 'iso',
 	},
 	['supra20'] = {
 		['name'] = '2020 Supra',
@@ -557,7 +557,7 @@ QBShared.Vehicles = {
 		['price'] = 99999999,
 		['category'] = 'vip',
 		['hash'] = `supra20`,
-		['shop'] = 'luxury',
+		['shop'] = 'iso',
 	},
 	['camtaz'] = {
 		['name'] = 'Taz Cam',
@@ -566,7 +566,7 @@ QBShared.Vehicles = {
 		['price'] = 99999999,
 		['category'] = 'vip',
 		['hash'] = `camtaz`,
-		['shop'] = 'luxury',
+		['shop'] = 'iso',
 	},
 	['dc5'] = {
 		['name'] = 'Taz DC5',
@@ -575,7 +575,7 @@ QBShared.Vehicles = {
 		['price'] = 99999999,
 		['category'] = 'vip',
 		['hash'] = `dc5`,
-		['shop'] = 'luxury',
+		['shop'] = 'iso',
 	},
 	['scatpack'] = {
 		['name'] = 'Corey Scatpack',
@@ -584,7 +584,7 @@ QBShared.Vehicles = {
 		['price'] = 99999999,
 		['category'] = 'vip',
 		['hash'] = `scatpack`,
-		['shop'] = 'luxury',
+		['shop'] = 'iso',
 	},
 	['nzp'] = {
 		['name'] = 'Nissan Sentra',
@@ -593,7 +593,7 @@ QBShared.Vehicles = {
 		['price'] = 99999999,
 		['category'] = 'vip',
 		['hash'] = `nzp`,
-		['shop'] = 'luxury',
+		['shop'] = 'iso',
 	},
 	['tesroad20'] = {
 		['name'] = 'Taz Tesla',
@@ -602,7 +602,7 @@ QBShared.Vehicles = {
 		['price'] = 99999999,
 		['category'] = 'vip',
 		['hash'] = `tesroad20`,
-		['shop'] = 'luxury',
+		['shop'] = 'iso',
 	},
 	['tltypes'] = {
 		['name'] = 'Acura TL Type-S',
@@ -719,7 +719,7 @@ QBShared.Vehicles = {
 		['price'] = 20000,
 		['category'] = 'vip',
 		['hash'] = `bmwx6mham`,
-		['shop'] = 'luxury',
+		['shop'] = 'iso',
 	},
 	['x5e53'] = {
 		['name'] = 'BMW X5 E53 2005 Sport Package',
@@ -879,9 +879,9 @@ QBShared.Vehicles = {
 		['brand'] = 'chevrolet',
 		['model'] = 'stingray',
 		['price'] = 999999999,
-		['category'] = 'luxury',
+		['category'] = 'iso',
 		['hash'] = `stingray`,
-		['shop'] = 'luxury',
+		['shop'] = 'iso',
 	},]]
 	--[['chr20'] = {
 		['name'] = 'Dodge Charger Hellcat Widebody 2021',
@@ -1511,7 +1511,7 @@ QBShared.Vehicles = {
 		['price'] = 9999999,
 		['category'] = 'vip',
 		['hash'] = `rculi`,
-		['shop'] = 'luxury',
+		['shop'] = 'iso',
 	},
 	['rrphantom'] = {
 		['name'] = '2018 Rolls-Royce Phantom VIII',
@@ -1727,7 +1727,7 @@ QBShared.Vehicles = {
 		['price'] = 99999999,
 		['category'] = 'vip',
 		['hash'] = `RedeyeSuperstockSCV2`,
-		['shop'] = 'luxury',
+		['shop'] = 'iso',
 	},
 	['22demon'] = {
 		['name'] = '2022 Demon',
@@ -1736,7 +1736,7 @@ QBShared.Vehicles = {
 		['price'] = 99999999,
 		['category'] = 'vip',
 		['hash'] = `22demon`,
-		['shop'] = 'luxury',
+		['shop'] = 'iso',
 	},
 	['180sx'] = {
 		['name'] = 'Nissan 180sx',
@@ -1754,7 +1754,7 @@ QBShared.Vehicles = {
 		['price'] = 99999999,
 		['category'] = 'vip',
 		['hash'] = `300sdemon`,
-		['shop'] = 'luxury',
+		['shop'] = 'iso',
 	},
 	['350z'] = {
 		['name'] = 'Nissan 350z',
