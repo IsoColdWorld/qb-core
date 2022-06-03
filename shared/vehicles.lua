@@ -398,7 +398,7 @@ QBShared.Vehicles = {
 		['shop'] = 'pdm',
 	},
 	['300srt8'] = {
-		['name'] = 'Mac 300SRT 8',
+		['name'] = 'Mack 300SRT 8',
 		['brand'] = 'Dodge',
 		['model'] = '300srt8',
 		['price'] = 99999999,
@@ -407,7 +407,7 @@ QBShared.Vehicles = {
 		['shop'] = 'iso',
 	},
 	['demonhawk'] = {
-		['name'] = 'Mac Trackhawk',
+		['name'] = 'Mack Trackhawk',
 		['brand'] = 'Jeep',
 		['model'] = 'demonhawk',
 		['price'] = 99999999,
@@ -416,7 +416,7 @@ QBShared.Vehicles = {
 		['shop'] = 'iso',
 	},
 	['chargerscat'] = {
-		['name'] = 'Mac Scatpack',
+		['name'] = 'Mack Scatpack',
 		['brand'] = 'Dodge',
 		['model'] = 'chargerscat',
 		['price'] = 99999999,
@@ -431,6 +431,15 @@ QBShared.Vehicles = {
 		['price'] = 99999999,
 		['category'] = 'vip',
 		['hash'] = `hellcatw`,
+		['shop'] = 'iso',
+	},
+	['21scatdurango'] = {
+		['name'] = 'Mack 392 Durango',
+		['brand'] = 'Dodge',
+		['model'] = '21scatdurango',
+		['price'] = 99999999,
+		['category'] = 'vip',
+		['hash'] = `21scatdurango`,
 		['shop'] = 'iso',
 	},
 	['infinitig35'] = {
