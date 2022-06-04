@@ -469,6 +469,15 @@ QBShared.Vehicles = {
 		['hash'] = `infinitig35`,
 		['shop'] = 'pdm',
 	},
+	['dtdmansq60'] = {
+		['name'] = 'Infiniti Q60 Von',
+		['brand'] = 'Infiniti',
+		['model'] = 'dtdmansq60',
+		['price'] = 99999999,
+		['category'] = 'vip',
+		['hash'] = `dtdmansq60`,
+		['shop'] = 'iso',
+	},
 	['tazg35'] = {
 		['name'] = 'InfinitiG35',
 		['brand'] = 'Infiniti',
