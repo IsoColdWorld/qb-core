@@ -312,6 +312,7 @@ function QBCore.Player.CreatePlayer(PlayerData)
             end
             return true
         end
+    end
 
     function self.Functions.SetMoney(moneytype, amount, reason)
         reason = reason or 'unknown'
@@ -332,7 +333,7 @@ function QBCore.Player.CreatePlayer(PlayerData)
         TriggerEvent('qb-log:server:CreateLog', 'playermoney', 'SetMoney', 'green', '**' .. GetPlayerName(self.PlayerData.source) .. ' (citizenid: ' .. self.PlayerData.citizenid .. ' | id: ' .. self.PlayerData.source .. ')** $' .. amount .. ' (' .. moneytype .. ') set, new ' .. moneytype .. ' balance: ' .. self.PlayerData.money[moneytype] .. ' reason: ' .. reason)
         return true
         end
-    end 
+    end
 
     function self.Functions.GetMoney(moneytype)
         if not moneytype then return false end
