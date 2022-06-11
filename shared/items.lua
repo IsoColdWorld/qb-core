@@ -724,4 +724,8 @@ QBShared.Items = {
 	['atmobject'] 				 	 = {['name'] = 'atmobject', 			  		['label'] = 'ATM', 						['weight'] = 200, 		['type'] = 'item', 		['image'] = 'expert_atmobj.png', 		['unique'] = true, 		['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'ATM'},
 	["head_bag"] 					 = {["name"] = "head_bag", 			 	["label"] = "Head Bag", 						["weight"] = 5, 		["type"] = "item", 		["image"] = "head_bag.png", 			["unique"] = true, 		["useable"] = true, 	["shouldClose"] = false,   ["combinable"] = nil,   ["description"] = "Put mask on hostage."},
 	['gym_membership'] 				 = {['name'] = 'gym_membership', 		     ['label'] = 'Gym membership', 				['weight'] = 0, 		['type'] = 'item', 		['image'] = 'gym_membership.png', 				['unique'] = true, 		['useable'] = true, 	['shouldClose'] = false,   ['combinable'] = nil,   ['description'] = 'Gym Notebook'},
+
+	 -- Cash 
+	['cash']                           = {['name'] = 'cash',                                  ['label'] = 'Cash',                     ['weight'] = 0,         ['type'] = 'item',         ['image'] = 'cash.png',                 ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,   ['combinable'] = nil,   ['description'] = "Your still broke."},
+	--['dirtymoney']                      = {['name'] = 'dirtymoney',                        ['label'] = 'Dirty Money',                 ['weight'] = 0,         ['type'] = 'item',         ['image'] = 'dirtymoney.png',             ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = false,   ['combinable'] = nil,   ['description'] = "Better not get pulled over with this."},
 }
