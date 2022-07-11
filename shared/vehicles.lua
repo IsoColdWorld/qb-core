@@ -568,13 +568,13 @@ QBShared.Vehicles = {
 		['hash'] = `73hard`,
 		['shop'] = 'iso',
 	},
-	['freebochrghoulre'] = {
+	['ChargerGhoulV2'] = {
 		['name'] = 'SRT Ghoul',
 		['brand'] = 'Dodge',
-		['model'] = 'freebochrghoulre',
+		['model'] = 'ChargerGhoulV2',
 		['price'] = 99999999,
 		['category'] = 'vip',
-		['hash'] = `freebochrghoulre`,
+		['hash'] = `ChargerGhoulV2`,
 		['shop'] = 'iso',
 	},
 	['a80'] = {
