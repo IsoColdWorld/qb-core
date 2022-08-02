@@ -946,6 +946,15 @@ QBShared.Vehicles = {
 		['hash'] = `stingray`,
 		['shop'] = 'iso',
 	},]]
+	['evo9taz'] = {
+		['name'] = 'Taz Evo 9',
+		['brand'] = 'mitsubishi',
+		['model'] = 'evo9taz',
+		['price'] = 999999999,
+		['category'] = 'iso',
+		['hash'] = `evo9taz`,
+		['shop'] = 'iso',
+	},
 	['chr20'] = {
 		['name'] = 'Dodge Charger Hellcat Widebody 2021',
 		['brand'] = 'dodge',
