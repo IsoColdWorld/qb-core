@@ -508,6 +508,22 @@ QBShared.Jobs = {
             },
         },
     },
+    ['karting'] = {
+        label = 'Karting',
+        defaultDuty = true,
+        offDutyPay = false,
+        grades = {
+            ['0'] = {
+                name = 'Karting Worker',
+                payment = 5
+            },
+            ['1'] = {
+                name = 'Karting Boss',
+                payment = 10,
+                isboss = true
+            },
+        },
+    },
 	--[['cookies'] = {
 		label = 'Cookies',
 		defaultDuty = true,

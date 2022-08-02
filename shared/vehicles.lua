@@ -946,7 +946,7 @@ QBShared.Vehicles = {
 		['hash'] = `stingray`,
 		['shop'] = 'iso',
 	},]]
-	--[['chr20'] = {
+	['chr20'] = {
 		['name'] = 'Dodge Charger Hellcat Widebody 2021',
 		['brand'] = 'dodge',
 		['model'] = 'chr20',
@@ -954,7 +954,7 @@ QBShared.Vehicles = {
 		['category'] = 'dodge',
 		['hash'] = `chr20`,
 		['shop'] = 'pdm',
-	},]]
+	},
 	['demon'] = {
 		['name'] = '2018 Dodge Challenger SRT Demon',
 		['brand'] = 'dodge',
