@@ -811,13 +811,13 @@ QBShared.Vehicles = {
 		['hash'] = `m3f80`,
 		['shop'] = 'pdm',
 	},
-	['m4f82'] = {
+	['f82'] = {
 		['name'] = '2015 BMW M4 F82',
 		['brand'] = 'bmw',
-		['model'] = 'm4f82',
+		['model'] = 'f82',
 		['price'] = 11500,
 		['category'] = 'bmw',
-		['hash'] = `m4f82`,
+		['hash'] = `f82`,
 		['shop'] = 'pdm',
 	},
 	['m6f13'] = {
