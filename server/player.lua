@@ -308,7 +308,7 @@ function QBCore.Player.CreatePlayer(PlayerData)
             end
             TriggerClientEvent('hud:client:OnMoneyChange', self.PlayerData.source, moneytype, amount, true)
             if moneytype == 'bank' then
-                TriggerClientEvent('qb-phone:client:RemoveBankMoney', self.PlayerData.source, amount)
+                TriggerClientEvent('qs-smartphone:client:RemoveBankMoney', self.PlayerData.source, amount)
             end
             return true
         end
