@@ -973,6 +973,15 @@ QBShared.Vehicles = {
 		['hash'] = `VonC8`,
 		['shop'] = 'iso',
 	},
+	['VonC1'] = {
+		['name'] = 'Von C1',
+		['brand'] = 'dodge',
+		['model'] = 'VonC1',
+		['price'] = 999999999,
+		['category'] = 'vip',
+		['hash'] = `VonC1`,
+		['shop'] = 'iso',
+	},
 	['mackpack'] = {
 		['name'] = '2019 MackPack',
 		['brand'] = 'dodge',
