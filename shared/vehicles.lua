@@ -433,6 +433,15 @@ QBShared.Vehicles = {
 		['hash'] = `demonhawk`,
 		['shop'] = 'iso',
 	},
+	['dk350z'] = {
+		['name'] = 'Dash 350z',
+		['brand'] = 'Nissan',
+		['model'] = 'dk350z',
+		['price'] = 99999999,
+		['category'] = 'vip',
+		['hash'] = `dk350z`,
+		['shop'] = 'iso',
+	},
 	['chargerscat'] = {
 		['name'] = 'Mack Scatpack',
 		['brand'] = 'Dodge',
@@ -584,6 +593,15 @@ QBShared.Vehicles = {
 		['price'] = 99999999,
 		['category'] = 'vip',
 		['hash'] = `a80`,
+		['shop'] = 'iso',
+	},
+	['dcd'] = {
+		['name'] = 'Challenger Forgi',
+		['brand'] = 'Dodge',
+		['model'] = 'dcd',
+		['price'] = 99999999,
+		['category'] = 'vip',
+		['hash'] = `dcd`,
 		['shop'] = 'iso',
 	},
 	['gcmm5cs'] = {
